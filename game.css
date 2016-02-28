@@ -1,0 +1,35 @@
+body {
+	background: #000;
+}
+table {
+	background: #fff;
+	border:1px solid #000;
+}
+td {
+	border:2px solid #000;
+	width:30px;
+	height:30px;
+}
+.main {
+	width:1092px;
+	display:inline;
+}
+.game {
+	width:800px;
+	margin:0 auto;
+}
+.log{
+	width:200px;
+	margin:0 auto;
+	background:#FFF;
+}
+.single_line{
+	margin:0 auto;
+	color:#000;
+}
+.score{
+	position:fixed;
+	right:0;
+	top:0;
+
+}
